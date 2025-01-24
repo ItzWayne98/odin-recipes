@@ -6,3 +6,9 @@ div {
 p {
     color: red;
 }
+
+.ingredient {
+    color: green;
+    font-weight: 300;
+    font-family: "Times New Roman", serif;
+}
